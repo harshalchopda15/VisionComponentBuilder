@@ -1,0 +1,6 @@
+@ComponentManagerApi_HostAddress = http://localhost:5018
+
+GET {{ComponentManagerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
